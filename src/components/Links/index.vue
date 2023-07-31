@@ -51,6 +51,7 @@ import { Icon } from "@vicons/utils";
 import {
   Link,
   Blog,
+  Heartbeat,
   CompactDisc,
   Cloud,
   Compass,
@@ -80,6 +81,7 @@ const siteLinksList = computed(() => {
 // 网站链接图标
 const siteIcon = {
   Blog,
+  Heartbeat,
   Cloud,
   CompactDisc,
   Compass,
