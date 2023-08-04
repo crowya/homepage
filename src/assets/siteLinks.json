@@ -7,6 +7,11 @@
   {
     "icon": "Heartbeat",
     "name": "爱巢",
-    "link": "https://bnsy.love/"
+    "link": "https://love.crowya.com/"
+  },
+  {
+    "icon": "MdImages",
+    "name": "图床",
+    "link": "https://image.crowya.com/"
   }
 ]
