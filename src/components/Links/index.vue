@@ -52,6 +52,7 @@ import {
   Link,
   Blog,
   Heartbeat,
+  MdImages,
   CompactDisc,
   Cloud,
   Compass,
@@ -82,12 +83,7 @@ const siteLinksList = computed(() => {
 const siteIcon = {
   Blog,
   Heartbeat,
-  Cloud,
-  CompactDisc,
-  Compass,
-  Book,
-  Fire,
-  LaptopCode,
+  MdImages,
 };
 
 // 链接跳转
