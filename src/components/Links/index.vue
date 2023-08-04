@@ -52,7 +52,7 @@ import {
   Link,
   Blog,
   Heartbeat,
-  MdImages,
+  Image,
   CompactDisc,
   Cloud,
   Compass,
@@ -83,7 +83,7 @@ const siteLinksList = computed(() => {
 const siteIcon = {
   Blog,
   Heartbeat,
-  MdImages,
+  Image,
 };
 
 // 链接跳转
